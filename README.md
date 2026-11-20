@@ -24,7 +24,6 @@ This project is a console-based Community Pantry Management System developed usi
 3. Right-click inside the editor.
 4. Select Run As → Java Application.
 5. Follow the menu instructions in the Console.
-6.
 
 ## Data Storage
 The program stores item and request information in memory while it is running. Data is not permanently saved after the program exits
